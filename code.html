@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Nave's Topical Dictionary</title>
+<style>
+body { font-family: Arial; padding: 15px; }
+input { width: 100%; padding: 10px; font-size: 16px; margin-bottom: 15px; }
+.result { padding: 12px; margin-bottom: 15px; background: #f4f4f4; border-radius: 8px; }
+h3 { margin: 0 0 10px 0; }
+ul { padding-left: 20px; }
+.status { font-weight: bold; margin-bottom: 10px; }
+</style>
+</head>
+<body>
 
+<h2>Nave’s Topical Dictionary</h2>
+
+<input type="text" id="searchInput" placeholder="Search topic (e.g., AARON, FAITH, LOVE)" onkeyup="searchTopic()">
+
+<div class="status" id="status">Loading...</div>
+<div id="results"></div>
+
+<script>
+
+let topicsData = [];
+
+const baseURL = "https://cdn.jsdelivr.net/gh/tonalthomas38-collab/BibleSphere-Data@main/topics/naves.json";
+
+async function loadTopics() {
+    try {
+        const response = await fetch(baseURL);
+        topicsData = await response.json();
+        document.getElementById("status").innerText = "Loaded successfully.";
+    } catch (error) {
+        document.getElementById("status").innerText = "Failed to load topics.";
+    }
+}
+
+function searchTopic() {
+    const query = document.getElementById("searchInput").value.trim().toLowerCase();
+    const resultsDiv = document.getElementById("results");
+    resultsDiv.innerHTML = "";
+
+    if (!query) return;
+
+    const filtered = topicsData.filter(item =>
+        item.subject.toLowerCase().includes(query)
+    );
+
+    if (filtered.length === 0) {
+        resultsDiv.innerHTML = "<p>No results found.</p>";
+        return;
+    }
+
+    filtered.slice(0, 30).forEach(item => {
+        const div = document.createElement("div");
+        div.className = "result";
+
+        let listItems = "";
+        item.topics.forEach(topic => {
+            listItems += `<li>${topic}</li>`;
+        });
+
+        div.innerHTML = `
+            <h3>${item.subject}</h3>
+            <ul>${listItems}</ul>
+        `;
+
+        resultsDiv.appendChild(div);
+    });
+}
+
+loadTopics();
+
+</script>
+
+</body>
+  </html>

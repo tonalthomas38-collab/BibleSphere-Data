@@ -9,18 +9,23 @@ output_file = "naves.json"
 
 data = []
 
-with open(input_file, newline='', encoding='utf-8') as csvfile:
+with open(input_file, newline='', encoding='utf-8-sig') as csvfile:
     reader = csv.DictReader(csvfile)
 
+    print("Detected columns:", reader.fieldnames)
+
     for row in reader:
-        section = row["section"].strip()
-        subject = row["subject"].strip()
-        entry_text = row["entry"].strip()
+
+        # Normalize keys
+        row = {k.strip().lower(): v for k, v in row.items()}
+
+        section = row.get("section", "").strip()
+        subject = row.get("subject", "").strip()
+        entry_text = row.get("entry", "").strip()
 
         if not subject:
             continue
 
-        # Split by new lines and clean bullets
         topics = []
         lines = entry_text.split("\n")
 

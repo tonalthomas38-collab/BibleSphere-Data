@@ -1,1 +1,78 @@
+Strong’s Lexicon
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+body { font-family: Arial; padding: 15px; }
+select, input, button { padding: 8px; margin: 5px 0; width: 100%; }
+.result { margin-top: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+.loading { color: green; font-weight: bold; }
+</style>
+</head>
+<body>
 
+<h2>Strong’s Lexicon</h2>
+
+<select id="languageSelect">
+  <option value="hebrew">Hebrew (H)</option>
+  <option value="greek">Greek (G)</option>
+</select>
+
+<input type="text" id="searchInput" placeholder="Enter Strong Number (e.g., H1 or G3056)">
+<button onclick="searchStrongs()">Search</button>
+
+<div id="status" class="loading"></div>
+<div id="result" class="result"></div>
+
+<script>
+let strongData = null;
+let currentLang = "hebrew";
+
+const greekURL = "https://cdn.jsdelivr.net/gh/tonalthomas38-collab/BibleSphere-Data@main/strongs/greek.json";
+const hebrewURL = "https://cdn.jsdelivr.net/gh/tonalthomas38-collab/BibleSphere-Data@main/strongs/hebrew.json";
+
+document.getElementById("languageSelect").addEventListener("change", function() {
+    currentLang = this.value;
+    strongData = null;
+    document.getElementById("status").innerText = "";
+    document.getElementById("result").innerHTML = "";
+});
+
+async function loadData() {
+    document.getElementById("status").innerText = "Loading " + currentLang + " lexicon...";
+    const url = currentLang === "hebrew" ? hebrewURL : greekURL;
+    const response = await fetch(url);
+    strongData = await response.json();
+    document.getElementById("status").innerText = "Loaded successfully.";
+}
+
+async function searchStrongs() {
+    const query = document.getElementById("searchInput").value.trim().toUpperCase();
+    if (!query) return;
+
+    if (!strongData) {
+        await loadData();
+    }
+
+    const entry = strongData.find(item => item.number === query);
+
+    if (!entry) {
+        document.getElementById("result").innerHTML = "No entry found.";
+        return;
+    }
+
+    document.getElementById("result").innerHTML = `
+        <h3>${entry.number} - ${entry.word}</h3>
+        <p><strong>Transliteration:</strong> ${entry.transliteration}</p>
+        <p><strong>Pronunciation:</strong> ${entry.pronunciation}</p>
+        <p><strong>Part of Speech:</strong> ${entry.part_of_speech}</p>
+        <p><strong>Definition:</strong> ${entry.definition}</p>
+        <p><strong>Source:</strong> ${entry.source}</p>
+        <p><strong>Usage:</strong> ${entry.usage}</p>
+    `;
+}
+</script>
+
+</body>
+</html>

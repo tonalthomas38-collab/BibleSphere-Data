@@ -1,13 +1,14 @@
-Strong’s Lexicon
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
+<title>Strong's Lexicon</title>
 <style>
 body { font-family: Arial; padding: 15px; }
-select, input, button { padding: 8px; margin: 5px 0; width: 100%; }
-.result { margin-top: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
-.loading { color: green; font-weight: bold; }
+select, input, button { width: 100%; padding: 10px; margin-top: 10px; font-size: 16px; }
+.result { margin-top: 20px; padding: 15px; border-radius: 8px; background: #f4f4f4; }
+.status { margin-top: 10px; font-weight: bold; }
+.highlight { background: yellow; }
 </style>
 </head>
 <body>
@@ -15,63 +16,88 @@ select, input, button { padding: 8px; margin: 5px 0; width: 100%; }
 <h2>Strong’s Lexicon</h2>
 
 <select id="languageSelect">
-  <option value="hebrew">Hebrew (H)</option>
   <option value="greek">Greek (G)</option>
+  <option value="hebrew">Hebrew (H)</option>
 </select>
 
-<input type="text" id="searchInput" placeholder="Enter Strong Number (e.g., H1 or G3056)">
+<input type="text" id="searchInput" placeholder="Enter Strong Number (G3056) or word or meaning">
+
 <button onclick="searchStrongs()">Search</button>
 
-<div id="status" class="loading"></div>
-<div id="result" class="result"></div>
+<div class="status" id="status"></div>
+<div id="results"></div>
 
 <script>
-let strongData = null;
-let currentLang = "hebrew";
 
-const greekURL = "https://cdn.jsdelivr.net/gh/tonalthomas38-collab/BibleSphere-Data@main/strongs/greek.json";
-const hebrewURL = "https://cdn.jsdelivr.net/gh/tonalthomas38-collab/BibleSphere-Data@main/strongs/hebrew.json";
+let strongData = [];
+let currentLanguage = "greek";
+
+const baseURL = "https://cdn.jsdelivr.net/gh/tonalthomas38-collab/BibleSphere-Data@main/strongs/";
 
 document.getElementById("languageSelect").addEventListener("change", function() {
-    currentLang = this.value;
-    strongData = null;
-    document.getElementById("status").innerText = "";
-    document.getElementById("result").innerHTML = "";
+    currentLanguage = this.value;
+    loadStrongs();
 });
 
-async function loadData() {
-    document.getElementById("status").innerText = "Loading " + currentLang + " lexicon...";
-    const url = currentLang === "hebrew" ? hebrewURL : greekURL;
-    const response = await fetch(url);
-    strongData = await response.json();
-    document.getElementById("status").innerText = "Loaded successfully.";
+async function loadStrongs() {
+    document.getElementById("status").innerText = "Loading...";
+    document.getElementById("results").innerHTML = "";
+
+    try {
+        const response = await fetch(baseURL + currentLanguage + ".json");
+        strongData = await response.json();
+        document.getElementById("status").innerText = "Loaded successfully.";
+    } catch (error) {
+        document.getElementById("status").innerText = "Failed to load.";
+    }
 }
 
-async function searchStrongs() {
-    const query = document.getElementById("searchInput").value.trim().toUpperCase();
+function searchStrongs() {
+
+    const query = document.getElementById("searchInput").value.trim().toLowerCase();
+    const resultsDiv = document.getElementById("results");
+    resultsDiv.innerHTML = "";
+
     if (!query) return;
 
-    if (!strongData) {
-        await loadData();
-    }
+    const results = strongData.filter(entry => {
 
-    const entry = strongData.find(item => item.number === query);
+        return (
+            (entry.number && entry.number.toLowerCase().includes(query)) ||
+            (entry.word && entry.word.toLowerCase().includes(query)) ||
+            (entry.transliteration && entry.transliteration.toLowerCase().includes(query)) ||
+            (entry.definition && entry.definition.toLowerCase().includes(query))
+        );
 
-    if (!entry) {
-        document.getElementById("result").innerHTML = "No entry found.";
+    });
+
+    if (results.length === 0) {
+        resultsDiv.innerHTML = "<p>No results found.</p>";
         return;
     }
 
-    document.getElementById("result").innerHTML = `
-        <h3>${entry.number} - ${entry.word}</h3>
-        <p><strong>Transliteration:</strong> ${entry.transliteration}</p>
-        <p><strong>Pronunciation:</strong> ${entry.pronunciation}</p>
-        <p><strong>Part of Speech:</strong> ${entry.part_of_speech}</p>
-        <p><strong>Definition:</strong> ${entry.definition}</p>
-        <p><strong>Source:</strong> ${entry.source}</p>
-        <p><strong>Usage:</strong> ${entry.usage}</p>
-    `;
+    results.slice(0, 50).forEach(entry => {
+
+        const div = document.createElement("div");
+        div.className = "result";
+
+        div.innerHTML = `
+            <h3>${entry.number} - ${entry.word || ""}</h3>
+            <p><b>Transliteration:</b> ${entry.transliteration || "N/A"}</p>
+            <p><b>Pronunciation:</b> ${entry.pronunciation || "N/A"}</p>
+            <p><b>Part of Speech:</b> ${entry.partOfSpeech || "N/A"}</p>
+            <p><b>Definition:</b> ${entry.definition || "N/A"}</p>
+            <p><b>Source:</b> ${entry.source || "N/A"}</p>
+            <p><b>Usage:</b> ${entry.usage || "N/A"}</p>
+        `;
+
+        resultsDiv.appendChild(div);
+    });
+
 }
+
+loadStrongs();
+
 </script>
 
 </body>

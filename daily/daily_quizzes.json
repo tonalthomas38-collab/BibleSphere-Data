@@ -1,1 +1,3662 @@
-
+[
+   {
+      "question":"Who built the ark?",
+      "options":[
+         "Noah",
+         "Moses",
+         "Abraham",
+         "David"
+      ],
+      "answer":"Noah"
+   },
+   {
+      "question":"Who led the Israelites out of Egypt?",
+      "options":[
+         "Moses",
+         "Aaron",
+         "Joshua",
+         "Joseph"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Where was Jesus born?",
+      "options":[
+         "Bethlehem",
+         "Nazareth",
+         "Jerusalem",
+         "Rome"
+      ],
+      "answer":"Bethlehem"
+   },
+   {
+      "question":"Who killed Goliath?",
+      "options":[
+         "David",
+         "Saul",
+         "Samuel",
+         "Solomon"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Who was swallowed by a great fish?",
+      "options":[
+         "Jonah",
+         "Isaiah",
+         "Elijah",
+         "Amos"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"What was the first book of the Bible?",
+      "options":[
+         "Genesis",
+         "Exodus",
+         "Psalms",
+         "Matthew"
+      ],
+      "answer":"Genesis"
+   },
+   {
+      "question":"Who betrayed Jesus?",
+      "options":[
+         "Judas Iscariot",
+         "Peter",
+         "Thomas",
+         "John"
+      ],
+      "answer":"Judas Iscariot"
+   },
+   {
+      "question":"On which day did Jesus rise from the dead?",
+      "options":[
+         "Third day",
+         "First day",
+         "Seventh day",
+         "Fortieth day"
+      ],
+      "answer":"Third day"
+   },
+   {
+      "question":"Who was the mother of Jesus?",
+      "options":[
+         "Mary",
+         "Martha",
+         "Elizabeth",
+         "Ruth"
+      ],
+      "answer":"Mary"
+   },
+   {
+      "question":"Who baptized Jesus?",
+      "options":[
+         "John the Baptist",
+         "Peter",
+         "Paul",
+         "James"
+      ],
+      "answer":"John the Baptist"
+   },
+   {
+      "question":"What did God create on the first day?",
+      "options":[
+         "Light",
+         "Animals",
+         "Sun",
+         "Man"
+      ],
+      "answer":"Light"
+   },
+   {
+      "question":"Who was the strongest man in the Bible?",
+      "options":[
+         "Samson",
+         "Saul",
+         "David",
+         "Gideon"
+      ],
+      "answer":"Samson"
+   },
+   {
+      "question":"Who interpreted Pharaoh’s dreams?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Which sea did Moses part?",
+      "options":[
+         "Red Sea",
+         "Dead Sea",
+         "Sea of Galilee",
+         "Mediterranean Sea"
+      ],
+      "answer":"Red Sea"
+   },
+   {
+      "question":"Who denied Jesus three times?",
+      "options":[
+         "Peter",
+         "Thomas",
+         "James",
+         "John"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"What is the shortest verse in the Bible?",
+      "options":[
+         "Jesus wept.",
+         "Pray always.",
+         "Fear not.",
+         "God is love."
+      ],
+      "answer":"Jesus wept."
+   },
+   {
+      "question":"Who was thrown into the lions’ den?",
+      "options":[
+         "Daniel",
+         "Jeremiah",
+         "Isaiah",
+         "Ezekiel"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who built the temple in Jerusalem?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Ezra"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who was Abraham’s wife?",
+      "options":[
+         "Sarah",
+         "Rachel",
+         "Leah",
+         "Rebekah"
+      ],
+      "answer":"Sarah"
+   },
+   {
+      "question":"Who wrote many of the Psalms?",
+      "options":[
+         "David",
+         "Moses",
+         "Isaiah",
+         "Solomon"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Who was the first man created by God?",
+      "options":[
+         "Adam",
+         "Noah",
+         "Abraham",
+         "Cain"
+      ],
+      "answer":"Adam"
+   },
+   {
+      "question":"Who was Adam’s wife?",
+      "options":[
+         "Eve",
+         "Sarah",
+         "Mary",
+         "Leah"
+      ],
+      "answer":"Eve"
+   },
+   {
+      "question":"Which disciple walked on water with Jesus?",
+      "options":[
+         "Peter",
+         "John",
+         "Thomas",
+         "Andrew"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"How many disciples did Jesus have?",
+      "options":[
+         "12",
+         "10",
+         "7",
+         "40"
+      ],
+      "answer":"12"
+   },
+   {
+      "question":"Who climbed a sycamore tree to see Jesus?",
+      "options":[
+         "Zacchaeus",
+         "Nicodemus",
+         "Bartimaeus",
+         "Jairus"
+      ],
+      "answer":"Zacchaeus"
+   },
+   {
+      "question":"Who received the Ten Commandments?",
+      "options":[
+         "Moses",
+         "Aaron",
+         "Joshua",
+         "Samuel"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"What did Jesus turn water into?",
+      "options":[
+         "Wine",
+         "Oil",
+         "Milk",
+         "Honey"
+      ],
+      "answer":"Wine"
+   },
+   {
+      "question":"What is the last book of the Bible?",
+      "options":[
+         "Revelation",
+         "Jude",
+         "Malachi",
+         "Acts"
+      ],
+      "answer":"Revelation"
+   },
+   {
+      "question":"Who saw a burning bush?",
+      "options":[
+         "Moses",
+         "Elijah",
+         "Samuel",
+         "Isaiah"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who was known as the weeping prophet?",
+      "options":[
+         "Jeremiah",
+         "Isaiah",
+         "Ezekiel",
+         "Hosea"
+      ],
+      "answer":"Jeremiah"
+   },
+   {
+      "question":"Who fed 5000 people with five loaves and two fish?",
+      "options":[
+         "Jesus",
+         "Peter",
+         "John",
+         "Andrew"
+      ],
+      "answer":"Jesus"
+   },
+   {
+      "question":"What was Paul’s name before conversion?",
+      "options":[
+         "Saul",
+         "Simon",
+         "Silas",
+         "Stephen"
+      ],
+      "answer":"Saul"
+   },
+   {
+      "question":"Who was the first king of Israel?",
+      "options":[
+         "Saul",
+         "David",
+         "Solomon",
+         "Samuel"
+      ],
+      "answer":"Saul"
+   },
+   {
+      "question":"Which disciple doubted Jesus’ resurrection?",
+      "options":[
+         "Thomas",
+         "Peter",
+         "James",
+         "Andrew"
+      ],
+      "answer":"Thomas"
+   },
+   {
+      "question":"Who survived inside the fiery furnace?",
+      "options":[
+         "Shadrach, Meshach, and Abednego",
+         "Moses and Aaron",
+         "Peter and John",
+         "Paul and Silas"
+      ],
+      "answer":"Shadrach, Meshach, and Abednego"
+   },
+   {
+      "question":"Who anointed David as king?",
+      "options":[
+         "Samuel",
+         "Nathan",
+         "Elijah",
+         "Moses"
+      ],
+      "answer":"Samuel"
+   },
+   {
+      "question":"Which river was Jesus baptized in?",
+      "options":[
+         "Jordan River",
+         "Nile River",
+         "Euphrates",
+         "Tigris"
+      ],
+      "answer":"Jordan River"
+   },
+   {
+      "question":"Who wrote the Book of Revelation?",
+      "options":[
+         "John",
+         "Peter",
+         "Paul",
+         "Luke"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who was thrown out of heaven?",
+      "options":[
+         "Satan",
+         "Adam",
+         "Cain",
+         "Saul"
+      ],
+      "answer":"Satan"
+   },
+   {
+      "question":"How many days and nights did it rain during the flood?",
+      "options":[
+         "40",
+         "7",
+         "12",
+         "100"
+      ],
+      "answer":"40"
+   },
+   {
+      "question":"Who was Jesus’ earthly father?",
+      "options":[
+         "Joseph",
+         "Zacharias",
+         "James",
+         "Peter"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who wrote most of the New Testament letters?",
+      "options":[
+         "Paul",
+         "Peter",
+         "John",
+         "Luke"
+      ],
+      "answer":"Paul"
+   },
+   {
+      "question":"Who was the tax collector among Jesus’ disciples?",
+      "options":[
+         "Matthew",
+         "Thomas",
+         "Philip",
+         "James"
+      ],
+      "answer":"Matthew"
+   },
+   {
+      "question":"Who dreamed about a ladder reaching heaven?",
+      "options":[
+         "Jacob",
+         "Joseph",
+         "Daniel",
+         "Isaac"
+      ],
+      "answer":"Jacob"
+   },
+   {
+      "question":"What food fell from heaven for the Israelites?",
+      "options":[
+         "Manna",
+         "Bread",
+         "Fish",
+         "Corn"
+      ],
+      "answer":"Manna"
+   },
+   {
+      "question":"Who was sold into slavery by his brothers?",
+      "options":[
+         "Joseph",
+         "Benjamin",
+         "Esau",
+         "Isaac"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who was the wisest king in the Bible?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Hezekiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who defeated Jericho?",
+      "options":[
+         "Joshua",
+         "Moses",
+         "David",
+         "Samuel"
+      ],
+      "answer":"Joshua"
+   },
+   {
+      "question":"Which prophet challenged the prophets of Baal?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Who was Ruth’s mother-in-law?",
+      "options":[
+         "Naomi",
+         "Sarah",
+         "Miriam",
+         "Leah"
+      ],
+      "answer":"Naomi"
+   },
+   {
+      "question":"Who was the first martyr in the New Testament?",
+      "options":[
+         "Stephen",
+         "Paul",
+         "Peter",
+         "James"
+      ],
+      "answer":"Stephen"
+   },
+   {
+      "question":"Who was the first martyr in the New Testament?",
+      "options":[
+         "Stephen",
+         "Paul",
+         "Peter",
+         "James"
+      ],
+      "answer":"Stephen"
+   },
+   {
+      "question":"Which apostle was a tentmaker?",
+      "options":[
+         "Paul",
+         "John",
+         "Peter",
+         "Andrew"
+      ],
+      "answer":"Paul"
+   },
+   {
+      "question":"Who interpreted King Nebuchadnezzar’s dream?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Isaiah",
+         "Ezekiel"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who was Isaac’s wife?",
+      "options":[
+         "Rebekah",
+         "Rachel",
+         "Leah",
+         "Sarah"
+      ],
+      "answer":"Rebekah"
+   },
+   {
+      "question":"What was the name of Abraham’s son?",
+      "options":[
+         "Isaac",
+         "Jacob",
+         "Joseph",
+         "Ishmael"
+      ],
+      "answer":"Isaac"
+   },
+   {
+      "question":"Who wrestled with an angel?",
+      "options":[
+         "Jacob",
+         "Moses",
+         "Elijah",
+         "Joshua"
+      ],
+      "answer":"Jacob"
+   },
+   {
+      "question":"Which city walls fell after trumpet blasts?",
+      "options":[
+         "Jericho",
+         "Jerusalem",
+         "Babylon",
+         "Nineveh"
+      ],
+      "answer":"Jericho"
+   },
+   {
+      "question":"Who interpreted dreams in prison?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Paul",
+         "David"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"What fruit did Adam and Eve eat?",
+      "options":[
+         "Forbidden fruit",
+         "Apple",
+         "Fig",
+         "Grapes"
+      ],
+      "answer":"Forbidden fruit"
+   },
+   {
+      "question":"Who wrote Genesis?",
+      "options":[
+         "Moses",
+         "David",
+         "Isaiah",
+         "Solomon"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who was Moses’ brother?",
+      "options":[
+         "Aaron",
+         "Joshua",
+         "Samuel",
+         "Caleb"
+      ],
+      "answer":"Aaron"
+   },
+   {
+      "question":"What did Jesus ride into Jerusalem?",
+      "options":[
+         "Donkey",
+         "Horse",
+         "Camel",
+         "Chariot"
+      ],
+      "answer":"Donkey"
+   },
+   {
+      "question":"Which disciple replaced Judas?",
+      "options":[
+         "Matthias",
+         "Barnabas",
+         "Silas",
+         "Timothy"
+      ],
+      "answer":"Matthias"
+   },
+   {
+      "question":"Who was known for his patience during suffering?",
+      "options":[
+         "Job",
+         "David",
+         "Joseph",
+         "Paul"
+      ],
+      "answer":"Job"
+   },
+   {
+      "question":"What was the name of Noah’s boat?",
+      "options":[
+         "Ark",
+         "Ship",
+         "Vessel",
+         "Covenant"
+      ],
+      "answer":"Ark"
+   },
+   {
+      "question":"Who prayed and fire came from heaven?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Moses",
+         "Samuel"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"What did Jesus say is the greatest commandment?",
+      "options":[
+         "Love God",
+         "Keep Sabbath",
+         "Fast daily",
+         "Build temples"
+      ],
+      "answer":"Love God"
+   },
+   {
+      "question":"Who cut off Samson’s hair?",
+      "options":[
+         "Delilah",
+         "Jezebel",
+         "Miriam",
+         "Naomi"
+      ],
+      "answer":"Delilah"
+   },
+   {
+      "question":"Which king built a golden image?",
+      "options":[
+         "Nebuchadnezzar",
+         "Saul",
+         "Herod",
+         "Solomon"
+      ],
+      "answer":"Nebuchadnezzar"
+   },
+   {
+      "question":"Who prepared the way for Jesus?",
+      "options":[
+         "John the Baptist",
+         "Peter",
+         "Paul",
+         "Isaiah"
+      ],
+      "answer":"John the Baptist"
+   },
+   {
+      "question":"What mountain did Moses receive the commandments on?",
+      "options":[
+         "Mount Sinai",
+         "Mount Carmel",
+         "Mount Zion",
+         "Mount Olive"
+      ],
+      "answer":"Mount Sinai"
+   },
+   {
+      "question":"Who was swallowed by the earth after rebellion?",
+      "options":[
+         "Korah",
+         "Cain",
+         "Esau",
+         "Absalom"
+      ],
+      "answer":"Korah"
+   },
+   {
+      "question":"Which gospel was written by a doctor?",
+      "options":[
+         "Luke",
+         "Matthew",
+         "John",
+         "Mark"
+      ],
+      "answer":"Luke"
+   },
+   {
+      "question":"Who was Jesus’ cousin?",
+      "options":[
+         "John the Baptist",
+         "James",
+         "Peter",
+         "Andrew"
+      ],
+      "answer":"John the Baptist"
+   },
+   {
+      "question":"Who saw dry bones come to life?",
+      "options":[
+         "Ezekiel",
+         "Isaiah",
+         "Daniel",
+         "Jeremiah"
+      ],
+      "answer":"Ezekiel"
+   },
+   {
+      "question":"Who asked Jesus for wisdom and received riches too?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Hezekiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"What city did Jonah preach to?",
+      "options":[
+         "Nineveh",
+         "Jerusalem",
+         "Babylon",
+         "Rome"
+      ],
+      "answer":"Nineveh"
+   },
+   {
+      "question":"Which disciple was a fisherman?",
+      "options":[
+         "Peter",
+         "Matthew",
+         "Paul",
+         "Luke"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who wrote many Proverbs?",
+      "options":[
+         "Solomon",
+         "David",
+         "Moses",
+         "Isaiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who shut the lions’ mouths?",
+      "options":[
+         "God",
+         "Daniel",
+         "King Darius",
+         "Gabriel"
+      ],
+      "answer":"God"
+   },
+   {
+      "question":"What did Jesus multiply to feed the crowd?",
+      "options":[
+         "Loaves and fish",
+         "Bread and grapes",
+         "Honey and milk",
+         "Fish and figs"
+      ],
+      "answer":"Loaves and fish"
+   },
+   {
+      "question":"Who climbed Mount Carmel to pray for rain?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Moses",
+         "Samuel"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Who became blind on the road to Damascus?",
+      "options":[
+         "Saul",
+         "Peter",
+         "Thomas",
+         "Barnabas"
+      ],
+      "answer":"Saul"
+   },
+   {
+      "question":"Who was the first woman created?",
+      "options":[
+         "Eve",
+         "Sarah",
+         "Mary",
+         "Rachel"
+      ],
+      "answer":"Eve"
+   },
+   {
+      "question":"What did God place in the sky after the flood?",
+      "options":[
+         "Rainbow",
+         "Star",
+         "Cloud",
+         "Sun"
+      ],
+      "answer":"Rainbow"
+   },
+   {
+      "question":"Who interpreted the writing on the wall?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who was David’s best friend?",
+      "options":[
+         "Jonathan",
+         "Samuel",
+         "Nathan",
+         "Joab"
+      ],
+      "answer":"Jonathan"
+   },
+   {
+      "question":"Who was thrown into prison with Silas?",
+      "options":[
+         "Paul",
+         "Peter",
+         "Barnabas",
+         "John"
+      ],
+      "answer":"Paul"
+   },
+   {
+      "question":"Which prophet was taken to heaven in a whirlwind?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Who was the queen that saved the Jews?",
+      "options":[
+         "Esther",
+         "Ruth",
+         "Deborah",
+         "Mary"
+      ],
+      "answer":"Esther"
+   },
+   {
+      "question":"Who was the first murderer in the Bible?",
+      "options":[
+         "Cain",
+         "Abel",
+         "Esau",
+         "Saul"
+      ],
+      "answer":"Cain"
+   },
+   {
+      "question":"Which king was known for rebuilding Jerusalem’s walls?",
+      "options":[
+         "Nehemiah",
+         "Ezra",
+         "David",
+         "Solomon"
+      ],
+      "answer":"Nehemiah"
+   },
+   {
+      "question":"Who interpreted dreams for Pharaoh’s cupbearer?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who was Paul’s missionary companion?",
+      "options":[
+         "Barnabas",
+         "Peter",
+         "John",
+         "James"
+      ],
+      "answer":"Barnabas"
+   },
+   {
+      "question":"Who saw angels ascending and descending?",
+      "options":[
+         "Jacob",
+         "Joseph",
+         "Moses",
+         "Daniel"
+      ],
+      "answer":"Jacob"
+   },
+   {
+      "question":"Who was called the friend of God?",
+      "options":[
+         "Abraham",
+         "Moses",
+         "David",
+         "Elijah"
+      ],
+      "answer":"Abraham"
+   },
+   {
+      "question":"Which apostle leaned on Jesus at supper?",
+      "options":[
+         "John",
+         "Peter",
+         "Thomas",
+         "Matthew"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who was healed after touching Jesus’ garment?",
+      "options":[
+         "Woman with issue of blood",
+         "Mary Magdalene",
+         "Martha",
+         "Lydia"
+      ],
+      "answer":"Woman with issue of blood"
+   },
+   {
+      "question":"Who was the first high priest of Israel?",
+      "options":[
+         "Aaron",
+         "Moses",
+         "Samuel",
+         "Eli"
+      ],
+      "answer":"Aaron"
+   },
+   {
+      "question":"Who said, 'Here am I; send me'?",
+      "options":[
+         "Isaiah",
+         "Jeremiah",
+         "Samuel",
+         "Elijah"
+      ],
+      "answer":"Isaiah"
+   },
+   {
+      "question":"Who was the father of John the Baptist?",
+      "options":[
+         "Zacharias",
+         "Joseph",
+         "Peter",
+         "Eli"
+      ],
+      "answer":"Zacharias"
+   },
+   {
+      "question":"Who parted the Jordan River with Elijah’s cloak?",
+      "options":[
+         "Elisha",
+         "Moses",
+         "Joshua",
+         "Samuel"
+      ],
+      "answer":"Elisha"
+   },
+   {
+      "question":"Who fell asleep and fell out of a window while Paul preached?",
+      "options":[
+         "Eutychus",
+         "Silas",
+         "Timothy",
+         "Barnabas"
+      ],
+      "answer":"Eutychus"
+   },
+   {
+      "question":"What was the name of David’s giant enemy?",
+      "options":[
+         "Goliath",
+         "Og",
+         "Sihon",
+         "Nebuchadnezzar"
+      ],
+      "answer":"Goliath"
+   },
+   {
+      "question":"Who was sold for twenty pieces of silver?",
+      "options":[
+         "Joseph",
+         "Jesus",
+         "Samson",
+         "Esau"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Which king threw Daniel into the lions’ den?",
+      "options":[
+         "Darius",
+         "Nebuchadnezzar",
+         "Saul",
+         "Herod"
+      ],
+      "answer":"Darius"
+   },
+   {
+      "question":"Who was the prophetess who judged Israel?",
+      "options":[
+         "Deborah",
+         "Esther",
+         "Ruth",
+         "Miriam"
+      ],
+      "answer":"Deborah"
+   },
+   {
+      "question":"Who was Isaac’s father?",
+      "options":[
+         "Abraham",
+         "Jacob",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Abraham"
+   },
+   {
+      "question":"Which disciple cut off the servant’s ear?",
+      "options":[
+         "Peter",
+         "John",
+         "James",
+         "Thomas"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who rebuilt the walls of Jerusalem?",
+      "options":[
+         "Nehemiah",
+         "Ezra",
+         "David",
+         "Solomon"
+      ],
+      "answer":"Nehemiah"
+   },
+   {
+      "question":"Who interpreted dreams in Babylon?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Moses",
+         "Isaiah"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Which king wrote many Psalms?",
+      "options":[
+         "David",
+         "Saul",
+         "Solomon",
+         "Hezekiah"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Who was thrown into prison before becoming ruler in Egypt?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Peter"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who was the brother of Moses?",
+      "options":[
+         "Aaron",
+         "Joshua",
+         "Samuel",
+         "Caleb"
+      ],
+      "answer":"Aaron"
+   },
+   {
+      "question":"What did Jesus calm during the storm?",
+      "options":[
+         "Sea",
+         "Earthquake",
+         "Fire",
+         "Rain"
+      ],
+      "answer":"Sea"
+   },
+   {
+      "question":"Who replaced Judas among the apostles?",
+      "options":[
+         "Matthias",
+         "Silas",
+         "Barnabas",
+         "Timothy"
+      ],
+      "answer":"Matthias"
+   },
+   {
+      "question":"Which city was destroyed by fire from heaven?",
+      "options":[
+         "Sodom",
+         "Jericho",
+         "Babylon",
+         "Nineveh"
+      ],
+      "answer":"Sodom"
+   },
+   {
+      "question":"Who was Samuel’s mother?",
+      "options":[
+         "Hannah",
+         "Sarah",
+         "Rachel",
+         "Leah"
+      ],
+      "answer":"Hannah"
+   },
+   {
+      "question":"Which disciple was called the beloved disciple?",
+      "options":[
+         "John",
+         "Peter",
+         "Andrew",
+         "Thomas"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who interpreted the handwriting on the wall?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who was known for building an ark?",
+      "options":[
+         "Noah",
+         "Moses",
+         "David",
+         "Abraham"
+      ],
+      "answer":"Noah"
+   },
+   {
+      "question":"Who saw the ladder reaching heaven?",
+      "options":[
+         "Jacob",
+         "Joseph",
+         "Daniel",
+         "Isaiah"
+      ],
+      "answer":"Jacob"
+   },
+   {
+      "question":"Who led Israel after Moses died?",
+      "options":[
+         "Joshua",
+         "Aaron",
+         "Samuel",
+         "David"
+      ],
+      "answer":"Joshua"
+   },
+   {
+      "question":"Who asked Jesus to remember him on the cross?",
+      "options":[
+         "The thief",
+         "Peter",
+         "John",
+         "Pilate"
+      ],
+      "answer":"The thief"
+   },
+   {
+      "question":"What did God provide Elijah by the brook?",
+      "options":[
+         "Ravens",
+         "Angels",
+         "Fish",
+         "Manna"
+      ],
+      "answer":"Ravens"
+   },
+   {
+      "question":"Who was known for interpreting dreams in Egypt?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who was swallowed by a fish after fleeing God?",
+      "options":[
+         "Jonah",
+         "Micah",
+         "Amos",
+         "Joel"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Which disciple betrayed Jesus with a kiss?",
+      "options":[
+         "Judas",
+         "Peter",
+         "Thomas",
+         "Matthew"
+      ],
+      "answer":"Judas"
+   },
+   {
+      "question":"Who was Paul’s young companion?",
+      "options":[
+         "Timothy",
+         "Barnabas",
+         "Silas",
+         "Titus"
+      ],
+      "answer":"Timothy"
+   },
+   {
+      "question":"Who shut the mouths of lions for Daniel?",
+      "options":[
+         "God",
+         "Daniel",
+         "Angel",
+         "Darius"
+      ],
+      "answer":"God"
+   },
+   {
+      "question":"What was Jesus laid in after birth?",
+      "options":[
+         "Manger",
+         "Temple",
+         "Palace",
+         "Basket"
+      ],
+      "answer":"Manger"
+   },
+   {
+      "question":"Who wrote many New Testament epistles?",
+      "options":[
+         "Paul",
+         "Peter",
+         "John",
+         "Luke"
+      ],
+      "answer":"Paul"
+   },
+   {
+      "question":"Who was the tax collector that climbed a tree?",
+      "options":[
+         "Zacchaeus",
+         "Matthew",
+         "Nicodemus",
+         "Jairus"
+      ],
+      "answer":"Zacchaeus"
+   },
+   {
+      "question":"Which prophet confronted King Ahab?",
+      "options":[
+         "Elijah",
+         "Isaiah",
+         "Jeremiah",
+         "Ezekiel"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Who slept in a basket among the reeds as a baby?",
+      "options":[
+         "Moses",
+         "Samuel",
+         "Jesus",
+         "Joseph"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who became queen and saved her people?",
+      "options":[
+         "Esther",
+         "Ruth",
+         "Deborah",
+         "Mary"
+      ],
+      "answer":"Esther"
+   },
+   {
+      "question":"Who saw Jesus transfigured on the mountain?",
+      "options":[
+         "Peter, James, and John",
+         "All disciples",
+         "Paul and Barnabas",
+         "Mary and Martha"
+      ],
+      "answer":"Peter, James, and John"
+   },
+   {
+      "question":"What city did Paul travel to after conversion?",
+      "options":[
+         "Damascus",
+         "Rome",
+         "Jerusalem",
+         "Athens"
+      ],
+      "answer":"Damascus"
+   },
+   {
+      "question":"Who was Abraham’s nephew?",
+      "options":[
+         "Lot",
+         "Isaac",
+         "Jacob",
+         "Joseph"
+      ],
+      "answer":"Lot"
+   },
+   {
+      "question":"Who lost his strength after his hair was cut?",
+      "options":[
+         "Samson",
+         "Saul",
+         "David",
+         "Absalom"
+      ],
+      "answer":"Samson"
+   },
+   {
+      "question":"Which apostle doubted until seeing Jesus?",
+      "options":[
+         "Thomas",
+         "Peter",
+         "John",
+         "James"
+      ],
+      "answer":"Thomas"
+   },
+   {
+      "question":"Who preached at Pentecost?",
+      "options":[
+         "Peter",
+         "Paul",
+         "John",
+         "James"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"What did God create on the second day?",
+      "options":[
+         "Sky",
+         "Animals",
+         "Sea",
+         "Plants"
+      ],
+      "answer":"Sky"
+   },
+   {
+      "question":"Who saw the burning bush?",
+      "options":[
+         "Moses",
+         "Elijah",
+         "Joshua",
+         "Samuel"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who anointed Saul as king?",
+      "options":[
+         "Samuel",
+         "Nathan",
+         "David",
+         "Elijah"
+      ],
+      "answer":"Samuel"
+   },
+   {
+      "question":"Who was thrown into a pit by his brothers?",
+      "options":[
+         "Joseph",
+         "Benjamin",
+         "David",
+         "Daniel"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"What instrument did David play?",
+      "options":[
+         "Harp",
+         "Flute",
+         "Trumpet",
+         "Drum"
+      ],
+      "answer":"Harp"
+   },
+   {
+      "question":"Who asked for wisdom instead of riches?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Hezekiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who heard God speak from a burning bush?",
+      "options":[
+         "Moses",
+         "Joshua",
+         "Samuel",
+         "Elijah"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Which disciple walked on water toward Jesus?",
+      "options":[
+         "Peter",
+         "John",
+         "Thomas",
+         "Andrew"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who was the mother of Samuel?",
+      "options":[
+         "Hannah",
+         "Sarah",
+         "Rachel",
+         "Elizabeth"
+      ],
+      "answer":"Hannah"
+   },
+   {
+      "question":"Which king threw Shadrach, Meshach, and Abednego into the furnace?",
+      "options":[
+         "Nebuchadnezzar",
+         "Darius",
+         "Saul",
+         "Herod"
+      ],
+      "answer":"Nebuchadnezzar"
+   },
+   {
+      "question":"Who baptized the Ethiopian eunuch?",
+      "options":[
+         "Philip",
+         "Peter",
+         "Paul",
+         "John"
+      ],
+      "answer":"Philip"
+   },
+   {
+      "question":"What was the name of the garden where Jesus prayed before crucifixion?",
+      "options":[
+         "Gethsemane",
+         "Eden",
+         "Galilee",
+         "Bethany"
+      ],
+      "answer":"Gethsemane"
+   },
+   {
+      "question":"Who was Jacob’s twin brother?",
+      "options":[
+         "Esau",
+         "Joseph",
+         "Benjamin",
+         "Reuben"
+      ],
+      "answer":"Esau"
+   },
+   {
+      "question":"Which prophet rebuilt the altar of the Lord on Mount Carmel?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Who interpreted Pharaoh’s dream about cows?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who became king after Saul?",
+      "options":[
+         "David",
+         "Solomon",
+         "Samuel",
+         "Jonathan"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Which disciple was known as the doubter?",
+      "options":[
+         "Thomas",
+         "Peter",
+         "John",
+         "Andrew"
+      ],
+      "answer":"Thomas"
+   },
+   {
+      "question":"Who was thrown overboard during a storm?",
+      "options":[
+         "Jonah",
+         "Paul",
+         "Peter",
+         "Silas"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who was the first woman?",
+      "options":[
+         "Eve",
+         "Sarah",
+         "Mary",
+         "Leah"
+      ],
+      "answer":"Eve"
+   },
+   {
+      "question":"What was manna?",
+      "options":[
+         "Bread from heaven",
+         "Fish",
+         "Fruit",
+         "Honey"
+      ],
+      "answer":"Bread from heaven"
+   },
+   {
+      "question":"Who interpreted dreams for King Nebuchadnezzar?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who was Abraham’s wife?",
+      "options":[
+         "Sarah",
+         "Rachel",
+         "Leah",
+         "Rebekah"
+      ],
+      "answer":"Sarah"
+   },
+   {
+      "question":"What river did Naaman wash in to be healed?",
+      "options":[
+         "Jordan",
+         "Nile",
+         "Euphrates",
+         "Tigris"
+      ],
+      "answer":"Jordan"
+   },
+   {
+      "question":"Who led worship with songs and psalms in Israel?",
+      "options":[
+         "David",
+         "Saul",
+         "Samuel",
+         "Moses"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Who was the strongest judge in Israel?",
+      "options":[
+         "Samson",
+         "Gideon",
+         "Samuel",
+         "Jephthah"
+      ],
+      "answer":"Samson"
+   },
+   {
+      "question":"Who interpreted the writing on Belshazzar’s wall?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Moses",
+         "Ezra"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who found baby Moses in the river?",
+      "options":[
+         "Pharaoh’s daughter",
+         "Miriam",
+         "Hannah",
+         "Naomi"
+      ],
+      "answer":"Pharaoh’s daughter"
+   },
+   {
+      "question":"Who was the disciple that Jesus loved?",
+      "options":[
+         "John",
+         "Peter",
+         "Thomas",
+         "James"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who prayed for wisdom and received it?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Hezekiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"What was the name of Abraham’s nephew?",
+      "options":[
+         "Lot",
+         "Isaac",
+         "Jacob",
+         "Laban"
+      ],
+      "answer":"Lot"
+   },
+   {
+      "question":"Who denied Jesus three times before the rooster crowed?",
+      "options":[
+         "Peter",
+         "Thomas",
+         "Judas",
+         "James"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who climbed Mount Sinai?",
+      "options":[
+         "Moses",
+         "Joshua",
+         "Aaron",
+         "Caleb"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Which queen visited Solomon because of his wisdom?",
+      "options":[
+         "Queen of Sheba",
+         "Esther",
+         "Jezebel",
+         "Candace"
+      ],
+      "answer":"Queen of Sheba"
+   },
+   {
+      "question":"Who was swallowed by a great fish?",
+      "options":[
+         "Jonah",
+         "Micah",
+         "Nahum",
+         "Joel"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who preached to the people on the Day of Pentecost?",
+      "options":[
+         "Peter",
+         "Paul",
+         "John",
+         "James"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"What did Jesus say is the light of the world?",
+      "options":[
+         "Himself",
+         "Temple",
+         "Jerusalem",
+         "Law"
+      ],
+      "answer":"Himself"
+   },
+   {
+      "question":"Who built the first altar after the flood?",
+      "options":[
+         "Noah",
+         "Abraham",
+         "Isaac",
+         "Jacob"
+      ],
+      "answer":"Noah"
+   },
+   {
+      "question":"Who was the first king anointed by Samuel?",
+      "options":[
+         "Saul",
+         "David",
+         "Solomon",
+         "Absalom"
+      ],
+      "answer":"Saul"
+   },
+   {
+      "question":"What city did Jesus grow up in?",
+      "options":[
+         "Nazareth",
+         "Bethlehem",
+         "Jerusalem",
+         "Capernaum"
+      ],
+      "answer":"Nazareth"
+   },
+   {
+      "question":"Who helped carry Jesus’ cross?",
+      "options":[
+         "Simon of Cyrene",
+         "Peter",
+         "John",
+         "Joseph"
+      ],
+      "answer":"Simon of Cyrene"
+   },
+   {
+      "question":"Which apostle was exiled to Patmos?",
+      "options":[
+         "John",
+         "Peter",
+         "Paul",
+         "Thomas"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who was known for great patience in suffering?",
+      "options":[
+         "Job",
+         "David",
+         "Paul",
+         "Joseph"
+      ],
+      "answer":"Job"
+   },
+   {
+      "question":"Who was sold into Egypt by his brothers?",
+      "options":[
+         "Joseph",
+         "Benjamin",
+         "Esau",
+         "Isaac"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"What instrument did David use to soothe Saul?",
+      "options":[
+         "Harp",
+         "Flute",
+         "Trumpet",
+         "Drum"
+      ],
+      "answer":"Harp"
+   },
+   {
+      "question":"Who was turned into a pillar of salt?",
+      "options":[
+         "Lot’s wife",
+         "Jezebel",
+         "Delilah",
+         "Miriam"
+      ],
+      "answer":"Lot’s wife"
+   },
+   {
+      "question":"Who succeeded Moses as leader of Israel?",
+      "options":[
+         "Joshua",
+         "Aaron",
+         "Samuel",
+         "Caleb"
+      ],
+      "answer":"Joshua"
+   },
+   {
+      "question":"Who was the Roman governor during Jesus’ trial?",
+      "options":[
+         "Pontius Pilate",
+         "Herod",
+         "Caesar",
+         "Felix"
+      ],
+      "answer":"Pontius Pilate"
+   },
+   {
+      "question":"What miracle did Jesus perform at Cana?",
+      "options":[
+         "Turned water into wine",
+         "Fed 5000",
+         "Walked on water",
+         "Raised Lazarus"
+      ],
+      "answer":"Turned water into wine"
+   },
+   {
+      "question":"Who was thrown into the den of lions?",
+      "options":[
+         "Daniel",
+         "Jeremiah",
+         "Isaiah",
+         "Ezekiel"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who wrote many of the Proverbs?",
+      "options":[
+         "Solomon",
+         "David",
+         "Moses",
+         "Samuel"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who climbed a sycamore tree to see Jesus?",
+      "options":[
+         "Zacchaeus",
+         "Nicodemus",
+         "Matthew",
+         "Bartimaeus"
+      ],
+      "answer":"Zacchaeus"
+   },
+   {
+      "question":"What was Jesus’ profession before ministry?",
+      "options":[
+         "Carpenter",
+         "Fisherman",
+         "Shepherd",
+         "Farmer"
+      ],
+      "answer":"Carpenter"
+   },
+   {
+      "question":"Who saw the vision of the valley of dry bones?",
+      "options":[
+         "Ezekiel",
+         "Daniel",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Ezekiel"
+   },
+   {
+      "question":"Who was the first disciple called by Jesus?",
+      "options":[
+         "Andrew",
+         "Peter",
+         "John",
+         "Matthew"
+      ],
+      "answer":"Andrew"
+   },
+   {
+      "question":"Who built the temple in Jerusalem?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Ezra"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who was Jesus’ mother?",
+      "options":[
+         "Mary",
+         "Martha",
+         "Elizabeth",
+         "Ruth"
+      ],
+      "answer":"Mary"
+   },
+   {
+      "question":"Who interpreted dreams while imprisoned in Egypt?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"What did God send after Noah built the ark?",
+      "options":[
+         "Flood",
+         "Fire",
+         "Famine",
+         "Earthquake"
+      ],
+      "answer":"Flood"
+   },
+   {
+      "question":"Who was the father of Isaac?",
+      "options":[
+         "Abraham",
+         "Jacob",
+         "Joseph",
+         "Moses"
+      ],
+      "answer":"Abraham"
+   },
+   {
+      "question":"Which disciple said, 'Lord, to whom shall we go?'",
+      "options":[
+         "Peter",
+         "John",
+         "Thomas",
+         "Andrew"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who was thrown into prison and sang hymns at midnight?",
+      "options":[
+         "Paul and Silas",
+         "Peter and John",
+         "Barnabas and Mark",
+         "James and John"
+      ],
+      "answer":"Paul and Silas"
+   },
+   {
+      "question":"What city was called the City of David?",
+      "options":[
+         "Jerusalem",
+         "Bethlehem",
+         "Nazareth",
+         "Hebron"
+      ],
+      "answer":"Jerusalem"
+   },
+   {
+      "question":"Who was Jacob’s favorite son?",
+      "options":[
+         "Joseph",
+         "Benjamin",
+         "Reuben",
+         "Judah"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who was the prophet taken up to heaven in a whirlwind?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Which king asked for wisdom from God?",
+      "options":[
+         "Solomon",
+         "Saul",
+         "David",
+         "Hezekiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who was the mother of Jesus?",
+      "options":[
+         "Mary",
+         "Martha",
+         "Ruth",
+         "Elizabeth"
+      ],
+      "answer":"Mary"
+   },
+   {
+      "question":"Who interpreted dreams for Pharaoh?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who led the Israelites across the Jordan River?",
+      "options":[
+         "Joshua",
+         "Moses",
+         "Aaron",
+         "Caleb"
+      ],
+      "answer":"Joshua"
+   },
+   {
+      "question":"Who wrote the Book of Psalms mostly?",
+      "options":[
+         "David",
+         "Solomon",
+         "Moses",
+         "Asaph"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Who was the first Christian martyr?",
+      "options":[
+         "Stephen",
+         "James",
+         "Peter",
+         "Paul"
+      ],
+      "answer":"Stephen"
+   },
+   {
+      "question":"Which disciple collected taxes before following Jesus?",
+      "options":[
+         "Matthew",
+         "Peter",
+         "John",
+         "Andrew"
+      ],
+      "answer":"Matthew"
+   },
+   {
+      "question":"Who was thrown into the fiery furnace?",
+      "options":[
+         "Shadrach, Meshach, and Abednego",
+         "Daniel and Ezekiel",
+         "Peter and John",
+         "Paul and Silas"
+      ],
+      "answer":"Shadrach, Meshach, and Abednego"
+   },
+   {
+      "question":"Who was the strongest man mentioned in the Bible?",
+      "options":[
+         "Samson",
+         "David",
+         "Saul",
+         "Joshua"
+      ],
+      "answer":"Samson"
+   },
+   {
+      "question":"What did Jesus feed the five thousand with?",
+      "options":[
+         "Five loaves and two fish",
+         "Bread and honey",
+         "Manna and quail",
+         "Fruit and bread"
+      ],
+      "answer":"Five loaves and two fish"
+   },
+   {
+      "question":"Who built the ark?",
+      "options":[
+         "Noah",
+         "Moses",
+         "Abraham",
+         "David"
+      ],
+      "answer":"Noah"
+   },
+   {
+      "question":"Who was Ruth’s husband after Boaz married her?",
+      "options":[
+         "Boaz",
+         "Elimelech",
+         "Obed",
+         "Mahlon"
+      ],
+      "answer":"Boaz"
+   },
+   {
+      "question":"Which apostle saw the vision on Patmos?",
+      "options":[
+         "John",
+         "Peter",
+         "Paul",
+         "Thomas"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who was swallowed by a great fish?",
+      "options":[
+         "Jonah",
+         "Joel",
+         "Micah",
+         "Nahum"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who carried baby Jesus into the temple and praised God?",
+      "options":[
+         "Simeon",
+         "Zacharias",
+         "Joseph",
+         "Nicodemus"
+      ],
+      "answer":"Simeon"
+   },
+   {
+      "question":"Who was David’s father?",
+      "options":[
+         "Jesse",
+         "Saul",
+         "Samuel",
+         "Jonathan"
+      ],
+      "answer":"Jesse"
+   },
+   {
+      "question":"What did God send to guide Israel by night?",
+      "options":[
+         "Pillar of fire",
+         "Rainbow",
+         "Star",
+         "Cloud"
+      ],
+      "answer":"Pillar of fire"
+   },
+   {
+      "question":"Who prayed in the temple as a child and heard God’s voice?",
+      "options":[
+         "Samuel",
+         "David",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Samuel"
+   },
+   {
+      "question":"Who was known as the beloved physician?",
+      "options":[
+         "Luke",
+         "Matthew",
+         "Paul",
+         "Mark"
+      ],
+      "answer":"Luke"
+   },
+   {
+      "question":"Who was Abraham’s nephew?",
+      "options":[
+         "Lot",
+         "Isaac",
+         "Jacob",
+         "Joseph"
+      ],
+      "answer":"Lot"
+   },
+   {
+      "question":"Who denied Jesus three times?",
+      "options":[
+         "Peter",
+         "Thomas",
+         "John",
+         "Andrew"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"What did Jesus walk on during the storm?",
+      "options":[
+         "Water",
+         "Sand",
+         "Clouds",
+         "Boat"
+      ],
+      "answer":"Water"
+   },
+   {
+      "question":"Who rebuilt Jerusalem’s walls?",
+      "options":[
+         "Nehemiah",
+         "Ezra",
+         "David",
+         "Solomon"
+      ],
+      "answer":"Nehemiah"
+   },
+   {
+      "question":"Who was the Roman governor who sentenced Jesus?",
+      "options":[
+         "Pontius Pilate",
+         "Herod",
+         "Caesar",
+         "Felix"
+      ],
+      "answer":"Pontius Pilate"
+   },
+   {
+      "question":"Who wrote many New Testament letters?",
+      "options":[
+         "Paul",
+         "Peter",
+         "John",
+         "Luke"
+      ],
+      "answer":"Paul"
+   },
+   {
+      "question":"Who was sold into slavery by his brothers?",
+      "options":[
+         "Joseph",
+         "Benjamin",
+         "Esau",
+         "Isaac"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who was Jesus’ earthly father?",
+      "options":[
+         "Joseph",
+         "Zacharias",
+         "Peter",
+         "James"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Which disciple doubted Jesus’ resurrection at first?",
+      "options":[
+         "Thomas",
+         "Peter",
+         "John",
+         "James"
+      ],
+      "answer":"Thomas"
+   },
+   {
+      "question":"Who saw the burning bush?",
+      "options":[
+         "Moses",
+         "Elijah",
+         "Joshua",
+         "Samuel"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who prayed and fire came down from heaven?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Who became blind on the road to Damascus?",
+      "options":[
+         "Saul",
+         "Peter",
+         "John",
+         "Barnabas"
+      ],
+      "answer":"Saul"
+   },
+   {
+      "question":"Who built the temple in Jerusalem?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Ezra"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"What river was Jesus baptized in?",
+      "options":[
+         "Jordan River",
+         "Nile River",
+         "Euphrates",
+         "Tigris"
+      ],
+      "answer":"Jordan River"
+   },
+   {
+      "question":"Who was thrown into the lions’ den?",
+      "options":[
+         "Daniel",
+         "Jeremiah",
+         "Isaiah",
+         "Ezekiel"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who anointed David as king?",
+      "options":[
+         "Samuel",
+         "Nathan",
+         "Elijah",
+         "Moses"
+      ],
+      "answer":"Samuel"
+   },
+   {
+      "question":"What was the first miracle Jesus performed?",
+      "options":[
+         "Turning water into wine",
+         "Healing blind man",
+         "Walking on water",
+         "Feeding 5000"
+      ],
+      "answer":"Turning water into wine"
+   },
+   {
+      "question":"Who saw the ladder reaching heaven?",
+      "options":[
+         "Jacob",
+         "Joseph",
+         "Moses",
+         "Daniel"
+      ],
+      "answer":"Jacob"
+   },
+   {
+      "question":"Who wrote Proverbs?",
+      "options":[
+         "Solomon",
+         "David",
+         "Moses",
+         "Isaiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who was Moses’ sister?",
+      "options":[
+         "Miriam",
+         "Deborah",
+         "Hannah",
+         "Ruth"
+      ],
+      "answer":"Miriam"
+   },
+   {
+      "question":"Who climbed a sycamore tree to see Jesus?",
+      "options":[
+         "Zacchaeus",
+         "Nicodemus",
+         "Matthew",
+         "Bartimaeus"
+      ],
+      "answer":"Zacchaeus"
+   },
+   {
+      "question":"Who preached to Nineveh?",
+      "options":[
+         "Jonah",
+         "Micah",
+         "Joel",
+         "Nahum"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who was the first man created by God?",
+      "options":[
+         "Adam",
+         "Noah",
+         "Abraham",
+         "Cain"
+      ],
+      "answer":"Adam"
+   },
+   {
+      "question":"Who was known for great patience and endurance?",
+      "options":[
+         "Job",
+         "David",
+         "Joseph",
+         "Paul"
+      ],
+      "answer":"Job"
+   },
+   {
+      "question":"Which disciple walked on water toward Jesus?",
+      "options":[
+         "Peter",
+         "John",
+         "Thomas",
+         "Andrew"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who was the father of John the Baptist?",
+      "options":[
+         "Zacharias",
+         "Joseph",
+         "Peter",
+         "Eli"
+      ],
+      "answer":"Zacharias"
+   },
+   {
+      "question":"Who interpreted King Nebuchadnezzar’s dream of the statue?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"What was the name of Abraham’s wife?",
+      "options":[
+         "Sarah",
+         "Rachel",
+         "Leah",
+         "Rebekah"
+      ],
+      "answer":"Sarah"
+   },
+   {
+      "question":"Who led the Israelites after Joshua died?",
+      "options":[
+         "Judges",
+         "Kings",
+         "Prophets",
+         "Priests"
+      ],
+      "answer":"Judges"
+   },
+   {
+      "question":"Who was thrown into prison with Paul?",
+      "options":[
+         "Silas",
+         "Barnabas",
+         "Timothy",
+         "Luke"
+      ],
+      "answer":"Silas"
+   },
+   {
+      "question":"Which prophet confronted King David about his sin?",
+      "options":[
+         "Nathan",
+         "Samuel",
+         "Elijah",
+         "Isaiah"
+      ],
+      "answer":"Nathan"
+   },
+   {
+      "question":"Who was Jacob’s mother?",
+      "options":[
+         "Rebekah",
+         "Sarah",
+         "Rachel",
+         "Leah"
+      ],
+      "answer":"Rebekah"
+   },
+   {
+      "question":"What did God provide for the Israelites in the desert?",
+      "options":[
+         "Manna",
+         "Fish",
+         "Fruit",
+         "Bread only"
+      ],
+      "answer":"Manna"
+   },
+   {
+      "question":"Who was the mother of Jesus?",
+      "options":[
+         "Mary",
+         "Martha",
+         "Elizabeth",
+         "Anna"
+      ],
+      "answer":"Mary"
+   },
+   {
+      "question":"Who was called the Baptist?",
+      "options":[
+         "John",
+         "Peter",
+         "Paul",
+         "James"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"What city was Jesus born in?",
+      "options":[
+         "Bethlehem",
+         "Nazareth",
+         "Jerusalem",
+         "Capernaum"
+      ],
+      "answer":"Bethlehem"
+   },
+   {
+      "question":"Who was the strongest man in Scripture?",
+      "options":[
+         "Samson",
+         "David",
+         "Saul",
+         "Joshua"
+      ],
+      "answer":"Samson"
+   },
+   {
+      "question":"Who interpreted Pharaoh’s dreams about famine?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who built the temple in Jerusalem?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Ezra"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Which disciple was a fisherman before following Jesus?",
+      "options":[
+         "Peter",
+         "Matthew",
+         "Thomas",
+         "Luke"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who wrote many Psalms?",
+      "options":[
+         "David",
+         "Moses",
+         "Isaiah",
+         "Samuel"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Who was the first man created?",
+      "options":[
+         "Adam",
+         "Noah",
+         "Cain",
+         "Abraham"
+      ],
+      "answer":"Adam"
+   },
+   {
+      "question":"Who was the first woman?",
+      "options":[
+         "Eve",
+         "Sarah",
+         "Mary",
+         "Leah"
+      ],
+      "answer":"Eve"
+   },
+   {
+      "question":"What did God create on the fourth day?",
+      "options":[
+         "Sun, moon, and stars",
+         "Animals",
+         "Sea",
+         "Man"
+      ],
+      "answer":"Sun, moon, and stars"
+   },
+   {
+      "question":"Who preached from inside Nineveh after the fish incident?",
+      "options":[
+         "Jonah",
+         "Joel",
+         "Micah",
+         "Nahum"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who was the first king of Israel?",
+      "options":[
+         "Saul",
+         "David",
+         "Solomon",
+         "Samuel"
+      ],
+      "answer":"Saul"
+   },
+   {
+      "question":"Who defeated Goliath?",
+      "options":[
+         "David",
+         "Saul",
+         "Jonathan",
+         "Samuel"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Who received the Ten Commandments?",
+      "options":[
+         "Moses",
+         "Aaron",
+         "Joshua",
+         "Caleb"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who climbed into a sycamore tree to see Jesus?",
+      "options":[
+         "Zacchaeus",
+         "Matthew",
+         "Nicodemus",
+         "Bartimaeus"
+      ],
+      "answer":"Zacchaeus"
+   },
+   {
+      "question":"What was the occupation of Matthew before following Jesus?",
+      "options":[
+         "Tax collector",
+         "Fisherman",
+         "Doctor",
+         "Carpenter"
+      ],
+      "answer":"Tax collector"
+   },
+   {
+      "question":"Who denied Jesus three times?",
+      "options":[
+         "Peter",
+         "Thomas",
+         "Andrew",
+         "John"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who betrayed Jesus?",
+      "options":[
+         "Judas Iscariot",
+         "Peter",
+         "Thomas",
+         "Philip"
+      ],
+      "answer":"Judas Iscariot"
+   },
+   {
+      "question":"What miracle did Jesus perform at Cana?",
+      "options":[
+         "Turned water into wine",
+         "Healed blind man",
+         "Fed 5000",
+         "Walked on water"
+      ],
+      "answer":"Turned water into wine"
+   },
+   {
+      "question":"Who walked on water toward Jesus?",
+      "options":[
+         "Peter",
+         "John",
+         "Thomas",
+         "James"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"What was the name of Moses’ brother?",
+      "options":[
+         "Aaron",
+         "Joshua",
+         "Samuel",
+         "Caleb"
+      ],
+      "answer":"Aaron"
+   },
+   {
+      "question":"Who saw a ladder reaching to heaven?",
+      "options":[
+         "Jacob",
+         "Joseph",
+         "Daniel",
+         "Moses"
+      ],
+      "answer":"Jacob"
+   },
+   {
+      "question":"Who was sold into slavery by his brothers?",
+      "options":[
+         "Joseph",
+         "Benjamin",
+         "Esau",
+         "Isaac"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Which apostle doubted Jesus’ resurrection?",
+      "options":[
+         "Thomas",
+         "Peter",
+         "John",
+         "Andrew"
+      ],
+      "answer":"Thomas"
+   },
+   {
+      "question":"Who survived the lions’ den?",
+      "options":[
+         "Daniel",
+         "Jeremiah",
+         "Isaiah",
+         "Ezekiel"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who survived the fiery furnace?",
+      "options":[
+         "Shadrach, Meshach, and Abednego",
+         "Peter and John",
+         "Paul and Silas",
+         "Moses and Aaron"
+      ],
+      "answer":"Shadrach, Meshach, and Abednego"
+   },
+   {
+      "question":"Who rebuilt Jerusalem’s walls?",
+      "options":[
+         "Nehemiah",
+         "Ezra",
+         "David",
+         "Solomon"
+      ],
+      "answer":"Nehemiah"
+   },
+   {
+      "question":"What instrument did David play?",
+      "options":[
+         "Harp",
+         "Flute",
+         "Trumpet",
+         "Drum"
+      ],
+      "answer":"Harp"
+   },
+   {
+      "question":"Who was swallowed by a great fish?",
+      "options":[
+         "Jonah",
+         "Joel",
+         "Micah",
+         "Nahum"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who was the wisest king in Israel?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Hezekiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who anointed David as king?",
+      "options":[
+         "Samuel",
+         "Nathan",
+         "Elijah",
+         "Isaiah"
+      ],
+      "answer":"Samuel"
+   },
+   {
+      "question":"What sea did Moses part?",
+      "options":[
+         "Red Sea",
+         "Dead Sea",
+         "Sea of Galilee",
+         "Mediterranean Sea"
+      ],
+      "answer":"Red Sea"
+   },
+   {
+      "question":"Who wrote many New Testament letters?",
+      "options":[
+         "Paul",
+         "Peter",
+         "John",
+         "Luke"
+      ],
+      "answer":"Paul"
+   },
+   {
+      "question":"Who preached on the Day of Pentecost?",
+      "options":[
+         "Peter",
+         "Paul",
+         "James",
+         "John"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who was known for patience in suffering?",
+      "options":[
+         "Job",
+         "David",
+         "Joseph",
+         "Paul"
+      ],
+      "answer":"Job"
+   },
+   {
+      "question":"What did Noah build?",
+      "options":[
+         "Ark",
+         "Temple",
+         "Tower",
+         "Altar"
+      ],
+      "answer":"Ark"
+   },
+   {
+      "question":"Who saw the burning bush?",
+      "options":[
+         "Moses",
+         "Joshua",
+         "Samuel",
+         "Elijah"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who was Esther’s cousin and guardian?",
+      "options":[
+         "Mordecai",
+         "Boaz",
+         "Ezra",
+         "Nehemiah"
+      ],
+      "answer":"Mordecai"
+   },
+   {
+      "question":"Who was Ruth’s husband?",
+      "options":[
+         "Boaz",
+         "Elimelech",
+         "Obed",
+         "Mahlon"
+      ],
+      "answer":"Boaz"
+   },
+   {
+      "question":"Who was thrown overboard during a storm at sea?",
+      "options":[
+         "Jonah",
+         "Paul",
+         "Peter",
+         "Silas"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who wrote Revelation?",
+      "options":[
+         "John",
+         "Peter",
+         "Paul",
+         "Luke"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who was the son promised to Abraham and Sarah?",
+      "options":[
+         "Isaac",
+         "Jacob",
+         "Joseph",
+         "Ishmael"
+      ],
+      "answer":"Isaac"
+   },
+   {
+      "question":"Who dreamed of seven fat and seven thin cows?",
+      "options":[
+         "Pharaoh",
+         "Nebuchadnezzar",
+         "Joseph",
+         "Daniel"
+      ],
+      "answer":"Pharaoh"
+   },
+   {
+      "question":"Who was the brother of Cain?",
+      "options":[
+         "Abel",
+         "Seth",
+         "Noah",
+         "Enoch"
+      ],
+      "answer":"Abel"
+   },
+   {
+      "question":"Who interpreted dreams in Babylon?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"What city did God destroy with fire because of wickedness?",
+      "options":[
+         "Sodom",
+         "Jericho",
+         "Babylon",
+         "Nineveh"
+      ],
+      "answer":"Sodom"
+   },
+   {
+      "question":"Who built a large boat to survive the flood?",
+      "options":[
+         "Noah",
+         "Moses",
+         "David",
+         "Abraham"
+      ],
+      "answer":"Noah"
+   },
+   {
+      "question":"Who became king after David?",
+      "options":[
+         "Solomon",
+         "Saul",
+         "Rehoboam",
+         "Samuel"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who was sold by his brothers into Egypt?",
+      "options":[
+         "Joseph",
+         "Benjamin",
+         "Esau",
+         "Isaac"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who prayed from inside a great fish?",
+      "options":[
+         "Jonah",
+         "Joel",
+         "Amos",
+         "Micah"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who was the first king of Israel?",
+      "options":[
+         "Saul",
+         "David",
+         "Solomon",
+         "Samuel"
+      ],
+      "answer":"Saul"
+   },
+   {
+      "question":"Who led Israel into the Promised Land?",
+      "options":[
+         "Joshua",
+         "Moses",
+         "Aaron",
+         "Caleb"
+      ],
+      "answer":"Joshua"
+   },
+   {
+      "question":"Who received tablets of the Law?",
+      "options":[
+         "Moses",
+         "Aaron",
+         "Joshua",
+         "Samuel"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who baptized Jesus?",
+      "options":[
+         "John the Baptist",
+         "Peter",
+         "James",
+         "Andrew"
+      ],
+      "answer":"John the Baptist"
+   },
+   {
+      "question":"Who denied Jesus three times?",
+      "options":[
+         "Peter",
+         "Thomas",
+         "John",
+         "Andrew"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who betrayed Jesus for silver?",
+      "options":[
+         "Judas Iscariot",
+         "Peter",
+         "Thomas",
+         "Matthew"
+      ],
+      "answer":"Judas Iscariot"
+   },
+   {
+      "question":"What did Jesus feed to the 5000?",
+      "options":[
+         "Five loaves and two fish",
+         "Bread and honey",
+         "Manna",
+         "Fruit"
+      ],
+      "answer":"Five loaves and two fish"
+   },
+   {
+      "question":"Who climbed a sycamore tree to see Jesus?",
+      "options":[
+         "Zacchaeus",
+         "Nicodemus",
+         "Matthew",
+         "Bartimaeus"
+      ],
+      "answer":"Zacchaeus"
+   },
+   {
+      "question":"Who was the strongest judge in Israel?",
+      "options":[
+         "Samson",
+         "Gideon",
+         "Samuel",
+         "Jephthah"
+      ],
+      "answer":"Samson"
+   },
+   {
+      "question":"Who survived the lions’ den?",
+      "options":[
+         "Daniel",
+         "Isaiah",
+         "Jeremiah",
+         "Ezekiel"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who interpreted Pharaoh’s dreams?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Moses",
+         "Aaron"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who was Ruth’s husband?",
+      "options":[
+         "Boaz",
+         "Elimelech",
+         "Mahlon",
+         "Obed"
+      ],
+      "answer":"Boaz"
+   },
+   {
+      "question":"Who wrote many Psalms?",
+      "options":[
+         "David",
+         "Solomon",
+         "Moses",
+         "Samuel"
+      ],
+      "answer":"David"
+   },
+   {
+      "question":"Who was thrown into the fiery furnace?",
+      "options":[
+         "Shadrach, Meshach, and Abednego",
+         "Peter and John",
+         "Paul and Silas",
+         "Moses and Aaron"
+      ],
+      "answer":"Shadrach, Meshach, and Abednego"
+   },
+   {
+      "question":"Who anointed David as king?",
+      "options":[
+         "Samuel",
+         "Nathan",
+         "Elijah",
+         "Isaiah"
+      ],
+      "answer":"Samuel"
+   },
+   {
+      "question":"Who walked on water toward Jesus?",
+      "options":[
+         "Peter",
+         "John",
+         "Thomas",
+         "Andrew"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who wrote Revelation?",
+      "options":[
+         "John",
+         "Peter",
+         "Paul",
+         "Luke"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who was swallowed by a great fish?",
+      "options":[
+         "Jonah",
+         "Joel",
+         "Amos",
+         "Micah"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who rebuilt Jerusalem’s walls?",
+      "options":[
+         "Nehemiah",
+         "Ezra",
+         "David",
+         "Solomon"
+      ],
+      "answer":"Nehemiah"
+   },
+   {
+      "question":"Who saw a burning bush?",
+      "options":[
+         "Moses",
+         "Joshua",
+         "Samuel",
+         "Elijah"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who was Esther’s guardian?",
+      "options":[
+         "Mordecai",
+         "Ezra",
+         "Boaz",
+         "Nehemiah"
+      ],
+      "answer":"Mordecai"
+   },
+   {
+      "question":"Who wrote many New Testament letters?",
+      "options":[
+         "Paul",
+         "Peter",
+         "John",
+         "Luke"
+      ],
+      "answer":"Paul"
+   },
+   {
+      "question":"Who became blind on the road to Damascus?",
+      "options":[
+         "Saul",
+         "Peter",
+         "Thomas",
+         "Barnabas"
+      ],
+      "answer":"Saul"
+   },
+   {
+      "question":"Who was the earthly father of Jesus?",
+      "options":[
+         "Joseph",
+         "Zacharias",
+         "Peter",
+         "James"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who preached on Pentecost?",
+      "options":[
+         "Peter",
+         "Paul",
+         "John",
+         "James"
+      ],
+      "answer":"Peter"
+   },
+   {
+      "question":"Who saw the ladder reaching heaven?",
+      "options":[
+         "Jacob",
+         "Joseph",
+         "Daniel",
+         "Isaiah"
+      ],
+      "answer":"Jacob"
+   },
+   {
+      "question":"Who was the wisest king of Israel?",
+      "options":[
+         "Solomon",
+         "David",
+         "Saul",
+         "Hezekiah"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who was thrown overboard during a storm?",
+      "options":[
+         "Jonah",
+         "Paul",
+         "Peter",
+         "Silas"
+      ],
+      "answer":"Jonah"
+   },
+   {
+      "question":"Who prayed and fire fell from heaven?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Who was known for patience during suffering?",
+      "options":[
+         "Job",
+         "Joseph",
+         "David",
+         "Paul"
+      ],
+      "answer":"Job"
+   },
+   {
+      "question":"Who carried Jesus’ cross?",
+      "options":[
+         "Simon of Cyrene",
+         "Peter",
+         "John",
+         "Joseph"
+      ],
+      "answer":"Simon of Cyrene"
+   },
+   {
+      "question":"What river was Jesus baptized in?",
+      "options":[
+         "Jordan River",
+         "Nile River",
+         "Euphrates",
+         "Tigris"
+      ],
+      "answer":"Jordan River"
+   },
+   {
+      "question":"Who interpreted the handwriting on the wall?",
+      "options":[
+         "Daniel",
+         "Joseph",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Daniel"
+   },
+   {
+      "question":"Who was David’s father?",
+      "options":[
+         "Jesse",
+         "Saul",
+         "Samuel",
+         "Jonathan"
+      ],
+      "answer":"Jesse"
+   },
+   {
+      "question":"Who became queen and saved the Jews?",
+      "options":[
+         "Esther",
+         "Ruth",
+         "Deborah",
+         "Mary"
+      ],
+      "answer":"Esther"
+   },
+   {
+      "question":"Who saw dry bones come to life in a vision?",
+      "options":[
+         "Ezekiel",
+         "Isaiah",
+         "Jeremiah",
+         "Daniel"
+      ],
+      "answer":"Ezekiel"
+   },
+   {
+      "question":"Who was the mother of Samuel?",
+      "options":[
+         "Hannah",
+         "Sarah",
+         "Rachel",
+         "Leah"
+      ],
+      "answer":"Hannah"
+   },
+   {
+      "question":"Who was known as the beloved disciple?",
+      "options":[
+         "John",
+         "Peter",
+         "James",
+         "Andrew"
+      ],
+      "answer":"John"
+   },
+   {
+      "question":"Who saw Jesus transfigured on the mountain?",
+      "options":[
+         "Peter, James, and John",
+         "All disciples",
+         "Paul and Barnabas",
+         "Moses and Elijah"
+      ],
+      "answer":"Peter, James, and John"
+   },
+   {
+      "question":"Who helped Paul during missionary journeys?",
+      "options":[
+         "Barnabas",
+         "Peter",
+         "John",
+         "Andrew"
+      ],
+      "answer":"Barnabas"
+   },
+   {
+      "question":"Who interpreted dreams while imprisoned?",
+      "options":[
+         "Joseph",
+         "Daniel",
+         "Jeremiah",
+         "Isaiah"
+      ],
+      "answer":"Joseph"
+   },
+   {
+      "question":"Who was the first Christian martyr?",
+      "options":[
+         "Stephen",
+         "James",
+         "Peter",
+         "Paul"
+      ],
+      "answer":"Stephen"
+   },
+   {
+      "question":"What was Jesus laid in after birth?",
+      "options":[
+         "Manger",
+         "Temple",
+         "Palace",
+         "Basket"
+      ],
+      "answer":"Manger"
+   },
+   {
+      "question":"Who was the prophet taken to heaven in a whirlwind?",
+      "options":[
+         "Elijah",
+         "Elisha",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Elijah"
+   },
+   {
+      "question":"Who climbed Mount Sinai?",
+      "options":[
+         "Moses",
+         "Joshua",
+         "Aaron",
+         "Caleb"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who was Jacob’s twin brother?",
+      "options":[
+         "Esau",
+         "Joseph",
+         "Benjamin",
+         "Reuben"
+      ],
+      "answer":"Esau"
+   },
+   {
+      "question":"Who prayed in the temple as a child?",
+      "options":[
+         "Samuel",
+         "David",
+         "Isaiah",
+         "Jeremiah"
+      ],
+      "answer":"Samuel"
+   },
+   {
+      "question":"Who was turned into a pillar of salt?",
+      "options":[
+         "Lot’s wife",
+         "Jezebel",
+         "Delilah",
+         "Miriam"
+      ],
+      "answer":"Lot’s wife"
+   },
+   {
+      "question":"Who was called the friend of God?",
+      "options":[
+         "Abraham",
+         "Moses",
+         "David",
+         "Elijah"
+      ],
+      "answer":"Abraham"
+   },
+   {
+      "question":"Who shut the mouths of lions?",
+      "options":[
+         "God",
+         "Daniel",
+         "Angel",
+         "Darius"
+      ],
+      "answer":"God"
+   },
+   {
+      "question":"Who wrote Proverbs?",
+      "options":[
+         "Solomon",
+         "David",
+         "Moses",
+         "Samuel"
+      ],
+      "answer":"Solomon"
+   },
+   {
+      "question":"Who was the Roman governor during Jesus’ trial?",
+      "options":[
+         "Pontius Pilate",
+         "Herod",
+         "Caesar",
+         "Felix"
+      ],
+      "answer":"Pontius Pilate"
+   },
+   {
+      "question":"Who heard God speak from a burning bush?",
+      "options":[
+         "Moses",
+         "Joshua",
+         "Samuel",
+         "Elijah"
+      ],
+      "answer":"Moses"
+   },
+   {
+      "question":"Who saw angels ascending and descending?",
+      "options":[
+         "Jacob",
+         "Joseph",
+         "Daniel",
+         "Isaiah"
+      ],
+      "answer":"Jacob"
+   },
+   {
+      "question":"Who was the tax collector among Jesus’ disciples?",
+      "options":[
+         "Matthew",
+         "Peter",
+         "Thomas",
+         "Andrew"
+      ],
+      "answer":"Matthew"
+   },
+   {
+      "question":"Leap Year Special: What sign did God place in the sky after the flood?",
+      "options":[
+         "Rainbow",
+         "Star",
+         "Cloud",
+         "Sun"
+      ],
+      "answer":"Rainbow"
+   }
+]
